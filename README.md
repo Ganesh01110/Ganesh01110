@@ -262,22 +262,22 @@
 
 <div align="left">
 
-### 🅿️ DigiPark — Smart Car Parking Management System
-> A real-time parking management platform with live slot tracking, automated billing, and multi-role access control.
+### 💪 IronTrack — Gym Workout Tracker
+> A modern, premium workout tracking app with effortless logging, visual progress history, and cloud-ready architecture.
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ganesh01110/workout-tracker)
 
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-- ⚡ Live slot updates using **WebSockets**
-- 🔐 Role-based access for **Admins, Operators & Guards**
-- 📊 Automated billing and financial tracking modules
-- 🚀 Containerised with **Docker**, CI/CD via **GitHub Actions**
+- 🏋️ **Effortless logging** — track exercises, reps, and weights with a clean dark-mode UI
+- � **Visual history** — see week-by-week progress at a glance
+- ☁️ **Azure-ready** — designed to scale to Azure Static Web Apps + Cosmos DB
+- 🔄 **CI/CD pipeline** via **GitHub Actions** for automated deployments
 
 ---
 
@@ -320,6 +320,30 @@
 - 🕸️ **Dynamic social graph** — real-time cronyism, social circle formation & decay
 - 🎨 High-performance **PixiJS** frontend with viewport toggles for Politicians vs Regular People
 - 🐳 Fully containerised with **Docker Compose**, CI/CD via **GitHub Actions**
+
+</div>
+
+---
+
+### 🎮 Gamified Portfolio — Tech-Noir Battle Game
+> A stylized 2D "Tech-Noir" action game where software engineering roles—Architect, DevOps Wizard, and Frontend Painter—battle chaotic system bugs. One of the most unique ways to present a developer portfolio.
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Visit_Site-blueviolet?style=flat&logo=vercel&logoColor=white)](https://gamified-portfolio-one.vercel.app/)
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ganesh01110/gamifiedPortfolio)
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=next.js&logoColor=white)
+![Phaser.js](https://img.shields.io/badge/Phaser.js-3B4EFF?style=flat&logo=phaser&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+- 🕹️ **Full game engine** built on **Phaser.js 3.90+** with state machine monster AI and combat mechanics
+- 👔 **Dual mode** — a clean professional portfolio view AND a playable battle game in one app
+- 🏆 **Reward system** — level completion reveals project "Knowledge Scrolls" with carousel mockups
+- 🏗️ **Infrastructure as Code** with **Terraform**, CI/CD via **GitHub Actions** + Snyk security scans
+- 🚀 Deployed on **Vercel** with automated pipeline
 
 </div>
 
@@ -385,7 +409,7 @@ I'd love to hear from you — say hi, drop feedback, or just connect!
 
 [![Portfolio](https://img.shields.io/badge/🎮_Portfolio-Visit_Site-blueviolet?style=for-the-badge)](https://gamified-portfolio-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesh-sahu-59a00b223)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganesh01110)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh01110)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshsahu0108@gmail.com)
 
 </div>
