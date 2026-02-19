@@ -165,6 +165,32 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="50" height="50" alt="Prisma" />
       <br>Prisma
     </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50" alt="SQLite" />
+      <br>SQLite
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="left">
+
+### 🤖 AI / ML
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-Learn" />
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+      <br>Python
+    </td>
   </tr>
 </table>
 
@@ -258,6 +284,8 @@
 ### 🏥 Hospital Management System
 > A comprehensive system streamlining patient, doctor, and appointment management with real-time notifications.
 
+[![Demo Video](https://img.shields.io/badge/▶_Demo_Video-Watch_on_LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/ganesh-sahu-59a00b223_node-frontend-backend-activity-7369750031064608771-WSoz?utm_source=share&utm_medium=member_desktop&rcm=ACoAADgQfYYBbU_VZi93TdyoBiRMzBIH-1seu-8)
+
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -269,6 +297,29 @@
 - 🔒 Secure **role-based authentication** (JWT)
 - 📋 Financial tracking and reporting dashboards
 - ⚙️ Backend performance optimized with async scripting
+
+---
+
+### 🧠 Sworm — Socio-Political Multi-Agent Swarm Simulation
+> An AI-powered simulation framework that models entire socio-political systems using hierarchical swarm intelligence — citizens, leaders, and institutions all driven by real ML models.
+
+[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ganesh01110/socio-political-multiagent-swarm)
+
+**Tech Stack:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+- 🤖 **DQN + ANN agents** — Citizens & Leaders run a 16-node MLP; Supreme Leader uses Deep Q-Network
+- 🗳️ Simulates **elections, corruption, propaganda & resource allocation** with fuzzy logic morality
+- 📈 **Economic feedback loops** — adjustable inflation, unemployment, inheritance tax (1–60%)
+- 🕸️ **Dynamic social graph** — real-time cronyism, social circle formation & decay
+- 🎨 High-performance **PixiJS** frontend with viewport toggles for Politicians vs Regular People
+- 🐳 Fully containerised with **Docker Compose**, CI/CD via **GitHub Actions**
 
 </div>
 
@@ -309,6 +360,20 @@
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganesh01110&theme=react-dark&hide_border=true)](https://github.com/ganesh01110)
+
+</div>
+
+---
+
+## 📖 Guestbook
+
+<div align="center">
+
+### ✍️ Visited my profile? Leave your mark!
+
+I'd love to hear from you — say hi, drop feedback, or just connect!
+
+[![Sign Guestbook](https://img.shields.io/badge/📖_Sign_My_Guestbook-Click_Here-success?style=for-the-badge)](https://github.com/Ganesh01110/Ganesh01110/discussions)
 
 </div>
 

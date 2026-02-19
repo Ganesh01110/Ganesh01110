@@ -1,0 +1,29 @@
+name: Guestbook Auto Reply
+
+on:
+  discussion_comment:
+    types: [created]
+
+jobs:
+  auto-reply:
+    runs-on: ubuntu-latest
+    if: github.event.discussion.category.name == 'Guestbook'
+    steps:
+      - name: Reply to guestbook entry
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.rest.pulls.createReplyForReviewComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              comment_id: context.payload.comment.id,
+              body: `👋 Hey @${context.payload.comment.user.login}! Thanks so much for signing my guestbook — really appreciate it! 🎉\nFeel free to check out my [portfolio](https://gamified-portfolio-one.vercel.app/) and let's connect! 🚀`
+            }).catch(() => 
+              github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.payload.discussion.number,
+                body: `👋 Hey @${context.payload.comment.user.login}! Thanks so much for signing my guestbook — really appreciate it! 🎉\nFeel free to check out my [portfolio](https://gamified-portfolio-one.vercel.app/) and let's connect! 🚀`
+              })
+            )
